@@ -6,10 +6,10 @@ qabot.py is a Python-based chatbot designed to answer user queries in real-time.
 <br></br>
 
 ## Features 🌟
-* Intelligent Conversations: Uses NLP to understand and respond to user input.
+* Intelligent Conversations: Uses Watson to understand and respond to user input.
 * Customizable: Easily customizable to suit various use cases, such as customer service, FAQs, or personal assistants.
 * Easy Setup: Simple installation and setup process for quick deployment.
-* Multi-Platform Support: Can be integrated with messaging platforms like Slack, Telegram, or Discord.
+* Multi-Platform Support: Can be used on PC, mobile, or tablet.
 <br></br>
 
 ## Installation 🛠
@@ -29,12 +29,16 @@ cd IBM_Coursera_QA_BOT
 ```bash
 pip install -r requirements.txt
 ```
-#### 3. Run the Bot
+#### 3. Add the API key to .env file
+```
+WATSONX_APIKEY = "<Your API key here>"
+```
+#### 4. Run the Bot
 After installing dependencies and setting up the configuration file, you can start the bot:
 ```bash
 python qabot.py
 ```
-This will run the bot locally on [http://127.0.0.1:7680.](http://127.0.0.1:7680)
+Visit the local server at - [http://127.0.0.1:7680.](http://127.0.0.1:7680)
 <br></br>
 
 ## Usage 🖥️
