@@ -1,4 +1,4 @@
-#!/Users/computer-pc/Movies/IBM_Coursera_QA_BOT/venv/bin/python
+#!/Users/computer-pc/Movies/Projects/IBM_Coursera_QA_BOT/venv/bin/python
 
 import sys
 import json
