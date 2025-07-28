@@ -2,7 +2,7 @@
 
 # qabot.py 🚀
 
-qabot.py is a Python-based chatbot designed to answer user queries in real-time. It leverages machine learning and natural language processing (NLP) techniques to provide intelligent responses. This project can be integrated with multiple platforms or used as a standalone bot.
+qabot.py is a Python-based chatbot designed to answer user queries in real-time. It leverages RAG and Langchain techniques to provide intelligent responses. This project can be integrated with multiple platforms or used as a standalone bot.
 <br></br>
 
 ## Features 🌟
